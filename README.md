@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://i.postimg.cc/9MptyWgz/banner.png"></h3>
+<h3 align="center" width:800px;><img src="https://i.postimg.cc/9MptyWgz/banner.png"></h3>
 <h1 align="center">Hello 👋, I'm Saifuddin Al Mahmood</h1>
 <h3 align="center">Passionate Web developer|Web Solutions|Clean Code|</h3>
 
