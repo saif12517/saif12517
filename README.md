@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/9MptyWgz/banner.png"style="height:100px; width: 800px;">
+<img src="https://i.postimg.cc/9MptyWgz/banner.png"alt= "My Image"width="800">
 <h1 align="center">Hello 👋, I'm Saifuddin Al Mahmood</h1>
 <h3 align="center">Passionate Web developer|Web Solutions|Clean Code|</h3>
 
